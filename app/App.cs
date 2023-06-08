@@ -1,0 +1,10 @@
+using XXXX
+
+namespace {
+    main (){
+    
+    
+    }
+
+
+}
